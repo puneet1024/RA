@@ -2,7 +2,8 @@
 
 Scraping scripts in Python from the assignments done as a Research Assistant at Santa Clara University.
 
-TurboPatent - to scrape details about patents from https://www.turbopatent.com 
+TurboPatent - to scrape details about patents from https://www.turbopatent.com
+
 MTurk_LinkedIn - to scrape employee details from LinkedIn Sales Navigator 
 
 Requirements:
